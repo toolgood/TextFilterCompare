@@ -1,0 +1,13 @@
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\bin\Debug\netcoreapp3.1\textFilterCompare.exe
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\bin\Debug\netcoreapp3.1\textFilterCompare.deps.json
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\bin\Debug\netcoreapp3.1\textFilterCompare.runtimeconfig.json
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\bin\Debug\netcoreapp3.1\textFilterCompare.runtimeconfig.dev.json
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\bin\Debug\netcoreapp3.1\textFilterCompare.dll
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\bin\Debug\netcoreapp3.1\textFilterCompare.pdb
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\obj\Debug\netcoreapp3.1\textFilterCompare.csprojAssemblyReference.cache
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\obj\Debug\netcoreapp3.1\textFilterCompare.AssemblyInfoInputs.cache
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\obj\Debug\netcoreapp3.1\textFilterCompare.AssemblyInfo.cs
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\obj\Debug\netcoreapp3.1\textFilterCompare.csproj.CoreCompileInputs.cache
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\obj\Debug\netcoreapp3.1\textFilterCompare.dll
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\obj\Debug\netcoreapp3.1\textFilterCompare.pdb
+D:\git\TextFilterCompare\csharp\textFilterCompare\textFilterCompare\obj\Debug\netcoreapp3.1\textFilterCompare.genruntimeconfig.cache
